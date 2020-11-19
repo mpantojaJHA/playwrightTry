@@ -1886,7 +1886,7 @@ WebSocket:
         opcode: number
         data: string
 
-    error:
+    socketError:
       parameters:
         error: string
 
