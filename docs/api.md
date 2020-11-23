@@ -1,5 +1,5 @@
 
-# Playwright API <!-- GEN:version -->v1.6.2<!-- GEN:stop-->
+# Playwright API <!-- GEN:version -->v1.6.3<!-- GEN:stop-->
 
 ##### Table of Contents
 
